@@ -1,2 +1,6 @@
 # ignore the datasets
 *.csv
+
+# ignore PyCharm
+.idea
+.idea/*
