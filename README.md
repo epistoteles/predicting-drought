@@ -12,3 +12,7 @@ We are working with a lot of data. By default, the memory limit of Jupyter noteb
 ```bash
 jupyter notebook --NotebookApp.max_buffer_size=10737418240
 ```
+
+If you get the error "widget javascript not detected. it may not be installed or enabled properly.", run this command first:
+sudo jupyter nbextension enable --py --sys-prefix widgetsnbextension
+jupyter nbextension enable --py widgetsnbextension

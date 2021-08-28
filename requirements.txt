@@ -2,4 +2,9 @@ numpy
 sktime
 sklearn
 pandas
+seaborn
+matplotlib
+tqdm
+ipywidgets
+widgetsnbextension
 
