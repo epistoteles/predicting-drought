@@ -1,6 +1,10 @@
 # ignore the datasets
 *.csv
 
+# ignore plots, other notebooks, etc.
+extras/*
+extras
+
 # ignore PyCharm
 .idea
 .idea/*
