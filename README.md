@@ -47,5 +47,7 @@ The following benchmarks:
 | Random guessing (stratified) | 0.164 | 1.046 |
 | LSTM ([@MiniXC](https://github.com/MiniXC)) | 0.639 | 0.277 |
 
+An up-to-date benchmark list of all handed in models can be found in the original kaggle task: https://www.kaggle.com/cdminix/us-drought-meteorological-data/tasks?taskId=3422.
+
 ## ⚠️ License
 This repository has been published under the MIT license.
