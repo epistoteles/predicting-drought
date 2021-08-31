@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#-why-predict-droughts">Why</a> •
   <a href="#%EF%B8%8F-installation">Installation</a> •
-  <a href="#-benchmarks">Benchmarks and Results</a> •
+  <a href="#-benchmarks">Benchmarks</a> •
   <a href="#%EF%B8%8F-license">License</a>
 </p>
 
@@ -45,7 +45,7 @@ jupyter nbextension enable --py widgetsnbextension
 
 ## 📊 Benchmarks
 
-The following performance benchmarks were either given or achieved:
+The following performance benchmarks were either given or achieved by our own experiments:
 
 | Model | Macro F1 Mean | MAE Mean |
 | --- | --- | --- |
