@@ -64,13 +64,15 @@ Status: August 2021
 
 An up-to-date benchmark list of all handed in models can be found in the original kaggle task: https://www.kaggle.com/cdminix/us-drought-meteorological-data/tasks?taskId=3422.
 
-The confusion matrices of the best-performing regressors per feature type developed in this notebook look as follows: 
+The confusion matrices of the best-performing regressors per feature type developed in this notebook lare shown below.
+
+Confusion matrix of ridge regression using MiniROCKET-transformed features:
 
 ![confusion matrix ridge regression + MiniROCKET](ridge-minirocket.png)
-Confusion matrix of ridge regression using MiniROCKET-transformed features
+
+Confusion matrix of ridge regression using default features:
 
 ![confusion matrix ridge regression + default features](ridge-regular.png)
-Confusion matrix of ridge regression using default features
 
 ## ⚠️ License
 This repository has been published under the MIT license.
