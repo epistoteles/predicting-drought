@@ -1,6 +1,10 @@
 # ignore the datasets
 *.csv
 
+# ignore checkpoints
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+
 # ignore plots, other notebooks, etc.
 extras/*
 extras
